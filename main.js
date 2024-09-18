@@ -1,2 +1,2 @@
 let nomeUsuario = 'Juan';
-alert ('juan')
+alert ('Juan, Yuri, Nanbes')
