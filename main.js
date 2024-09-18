@@ -1,2 +1,2 @@
-let nomeUsuario = 'Juan'
-alert ('Juan, Yuri, Nanbes');
+let nomeUsuario = 'Juan, Yuri, Nanbes'
+alert ('nomeUsuario');
