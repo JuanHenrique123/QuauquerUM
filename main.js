@@ -23,5 +23,6 @@ let areaTriangulo = function(a,b){
 
  console.log ("área do triângulo é", areaTriangulo(6,6), "cm²")
 
+
+
  let Yuri = parseInt(prompt("quais são esses 3 valores?")
-alert (Yuri)
