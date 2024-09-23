@@ -13,4 +13,4 @@ function multiplication(num1,num2){
     return num1*num2;
 
 }
-console.log(multiplication(15,15))
+console.log("este é o resultado", multiplication(15,15))
