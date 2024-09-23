@@ -1,6 +1,7 @@
-// let nomeUsuario = 'Juan, Yuri, Nanbes'
+ let nomeUsuario = 'Juan, Yuri, Nanbes'
 
-// alert(nomeUsuario);
+ alert(nomeUsuario);
+ alert(aula2)
 
 function soma(num1,num2){
     return num1+num2;
