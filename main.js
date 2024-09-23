@@ -24,6 +24,13 @@ let areaTriangulo = function(a,b){
  console.log ("área do triângulo é", areaTriangulo(6,6), "cm²")
 
 
-let média = parseInt(prompt("diga 3 valores para eu te dar a média"))
- document.write média;
- parseInt(prompt(média))
+let a = parseInt(prompt("primeiro valor"))
+let b = parseInt(prompt("segundo valor"))
+let c = parseInt(prompt("terceiro valor"))
+
+function media(a,b,c){
+    return ((a+b+c)/3);
+
+}
+
+document.write(media(a, b, c))
