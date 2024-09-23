@@ -16,6 +16,6 @@ function multiplication(num1,num2){
 console.log("a aréa do quadrado é", multiplication(6,6))
 
 let areaTriangulo = function(a,b){
-    return a*b/2;
+    return (a*b/)2;
  }
  console.log ("área do triângulo é", areaTriangulo(6,6), "cm²")
