@@ -25,4 +25,6 @@ let areaTriangulo = function(a,b){
 
 
 
- let Yuri = parseInt(prompt("quais são esses 3 valores?")
+ let valores = parseInt(prompt("quais são esses 3 valores?") {
+ function (a+b+c)/2; 
+ }
