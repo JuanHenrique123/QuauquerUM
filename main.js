@@ -6,11 +6,11 @@ function soma(num1,num2){
     return num1+num2;
 
 }
-console.log(soma(1,2))
+console.log(soma(10,10))
 
 
 function multiplication(num1,num2){
     return num1*num2;
 
 }
-console.log("a aréa do quadrado é", multiplication(15,15))
+console.log("a aréa do quadrado é", multiplication(6,6))
